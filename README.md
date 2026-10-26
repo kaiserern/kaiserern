@@ -8,9 +8,9 @@ Right now that means a Solana execution bot with real users, a container
 orchestrator in Go, and bank payment integrations where one wrong byte is one
 wrong balance.
 
-Most of what I ship is in private repos — payment rails, internal tooling, the
-Shoal platform. The public side is below, and the numbers on it are pulled from
-the API every day, not typed in once.
+Three repos are public. Everything else stays private — payment rails, internal
+tooling, the Shoal platform. The numbers on the card are pulled from the API
+every day, not typed in once.
 
 ## Running
 
@@ -43,17 +43,6 @@ Catches fake job-interview invitations before someone travels to the address on
 them. Pattern detection on the letter itself, an open blacklist of 339 broker
 ("calo") storefront addresses with their fake company names, and SQLite FTS5 so
 you can search by street or block. Text extraction runs in the browser.
-
-## Also public
-
-| Repo | What it is | Stack |
-|---|---|---|
-| [aiagent](https://github.com/kaiserern/aiagent) | AetherAgent — autonomous agent with its own Solana wallet and an on-chain activity feed | TypeScript, Postgres |
-| [solgram](https://github.com/kaiserern/solgram) | Twitter clone on Solana with wallet auth and real-time feeds | Next.js, Supabase |
-| [Solpredict](https://github.com/kaiserern/Solpredict) | Prediction-market aggregator over Polymarket and Kalshi data | TypeScript |
-| [AIHELPER](https://github.com/kaiserern/AIHELPER) | AI Studio app, kept as the reference deploy | TypeScript |
-| [faucet](https://github.com/kaiserern/faucet) | Testnet PYR faucet UI | JavaScript |
-| [siakad](https://github.com/kaiserern/siakad) | Campus academic system, my first real Next.js build | TypeScript |
 
 ## Stack
 

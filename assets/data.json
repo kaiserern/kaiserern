@@ -2,8 +2,8 @@
   "name": "MUH.GHUFROON",
   "login": "kaiserern",
   "location": "Indonesia",
-  "repos": 10,
-  "stars": 84,
+  "repos": 3,
+  "stars": 70,
   "forks": 29,
   "flagship": "Kaiser.charon",
   "flagship_stars": 70,
@@ -11,7 +11,6 @@
   "contrib": 1062,
   "languages": [
     "JavaScript",
-    "Python",
-    "TypeScript"
+    "Python"
   ]
 }

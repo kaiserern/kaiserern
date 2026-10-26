@@ -12,6 +12,6 @@
 <text x="44" y="184" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="2" fill="#6e7781">STACK</text>
 <text x="148" y="184" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#1f2328">Go · TypeScript · Python · PostgreSQL · SQLite · Solana</text>
 <text x="44" y="220" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="2" fill="#6e7781">OPEN</text>
-<text x="148" y="220" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#1f2328">10 public repos · most of the work sits in private ones</text>
+<text x="148" y="220" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#1f2328">3 public repos · most of the work sits in private ones</text>
 <text x="836" y="248" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" letter-spacing="0.8" fill="#6e7781">GENERATED FROM THE GITHUB API · REBUILT DAILY</text>
 </svg>
