@@ -21,9 +21,6 @@ import urllib.request
 LOGIN = "kaiserern"
 FLAGSHIP = "Kaiser.charon"
 
-# Small repos worth naming on the card, in order.
-EXTRA_REPOS = ["radar-loker"]
-
 GRAPHQL = "https://api.github.com/graphql"
 REST = "https://api.github.com"
 
